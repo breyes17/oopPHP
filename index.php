@@ -1,4 +1,5 @@
 <? 
-include 'Tutorials/setandget.php'
+
+include 'Tutorials/inheritance.php'
 
 ?>

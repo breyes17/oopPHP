@@ -1,5 +1,4 @@
-<? 
+<?php
 
-include 'Tutorials/inheritance.php'
-
+include 'Tutorials/5-AbstractClassAndMethod.php'; 
 ?>

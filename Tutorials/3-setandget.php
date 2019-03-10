@@ -1,4 +1,4 @@
-<? 
+<?php
 // __set and __get method
 
 // 3 different ways to access the private
